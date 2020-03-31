@@ -10,7 +10,7 @@ function App() {
       isCompleted: false 
     },
     { 
-      text: "Learn React comoponent hiarchy",
+      text: "Learn React Hooks",
       isCompleted: false 
     },
     { 
